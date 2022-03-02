@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include "lru.h"
 
-LRUCache* LRUCacheCreate(int capacity) {
+LRUCache* LRUCacheCreate(int capacity) { //Do first
 }
 
 int LRUCacheGet(LRUCache* obj, int key) {
